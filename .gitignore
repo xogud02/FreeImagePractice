@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!/FreeImagePractice/
+FreeImagePractice/*
+!/FreeImagePractice/*.h
+!/FreeImagePractice/*.cpp
+!/FreeImagePractice/FreeImagePractice.vcxproj.filters
+
